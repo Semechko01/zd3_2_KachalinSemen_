@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">zd3_2_KachalinSemen</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="myquest">My Quests</string>
+    <string name="details">Details</string>
+    <string name="text1">Введите название фильма</string>
+    <string name="text2">Искать</string>
+</resources>
